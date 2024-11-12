@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is İdil and I am a senior Industrial Engineering student double majoring with Computer Engineering.
+- 🤔 I'm curious about all things Python & Data Science.
+- 🔭 I’m currently working on improving my skills in Data Science.
+- 👯 I’m looking to collaborate on an internship opportunity to grow myself as a Future Data Scientist.
 <!--
 **idilissever/idilissever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
