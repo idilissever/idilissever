@@ -2,7 +2,7 @@
 
 My name is İdil and I am a senior Industrial Engineering student double majoring with Computer Engineering.
 - 🤔 I'm curious about all things Python & Data Science.
-- 🔭 I’m currently working on improving my skills in Data Science.
+- 🔭 I’m currently working at Yapı Kredi Bankası as a CRM Data Analyst Intern.
 - 👯 I’m looking for an internship opportunity to grow myself as a Future Data Scientist.
 
 👉 [Hackerrank Profile](https://www.hackerrank.com/profile/iissever21) 👈
